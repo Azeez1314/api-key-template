@@ -7,7 +7,7 @@
 
 ### Portfolio Site including links to my projects and ways to get in contact with me.
 
-## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript) ![NODE BADGE](https://img.shields.io/static/v1?label=|&message=NODE&color=23555f&style=plastic&logo=node)![EXPRESS BADGE](https://img.shields.io/static/v1?label=|&message=EXPRESS&color=285f65&style=plastic&logo=express)
 
 I was interested in learning ways of making linking API to both client side and server side hassle free. And also creating a template for future use.
 
